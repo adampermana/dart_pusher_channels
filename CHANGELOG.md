@@ -1,3 +1,6 @@
+## 1.2.4
+- Updated dependency: `http: ^1.1.2`, `meta: ^1.17.0`, `rxdart: ^0.28.0`, `web_socket_channel: ^3.0.3`, `lints: ^5.0.0`, `test: ^1.26.3`
+
 ## 1.2.3
 - Updated dependency: `pinenacl: ^0.6.0`
 
